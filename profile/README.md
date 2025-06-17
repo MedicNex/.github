@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.medicnex.com/static/images/MedicNexTextLogoBlack.png" alt="MedicNex Logo" width="320" draggable="false" />
   <p></p>
-  <p><i>A Tech Inc Dedicated to Promoting Educational Equity</i></p>
+  <p><i>A Tech Ltd Dedicated to Promoting Educational Equity</i></p>
 </div>
 
 ---
